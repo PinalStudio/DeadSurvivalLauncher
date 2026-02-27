@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDI3NjQ5NkYwNDkzNDg1NjcKUldSbmhUUko4SlprSnpMd3M2aXh1c2RTRVZGcDRwMmJrOGhJTEJWdFpvRmxsRklCcDNPN21iK2EK",
-      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/deadsurvival-launcher_0.1.0_x64-setup.exe"
+      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.1.0_x64-setup.exe"
     }
   }
 }
