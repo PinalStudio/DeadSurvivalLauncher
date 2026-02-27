@@ -4,7 +4,7 @@
   "pub_date": "2026-02-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDI3NjQ5NkYwNDkzNDg1NjcKUldSbmhUUko4SlprSnpMd3M2aXh1c2RTRVZGcDRwMmJrOGhJTEJWdFpvRmxsRklCcDNPN21iK2EK",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbmhUUko4SlprSjNjVUx5Vzk2U1FwWXo1RkZZWXpuZU1XeGNlQmkvMDRpekZhVnpaT3lKOU1kaEV2azdzNmNZNENRRFFYS3c5UGtMVmhXa3JWMVZRaXBuV21jWlVrakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjI1NzA4CWZpbGU6RGVhZFN1cnZpdmFsTGF1bmNoZXJfMC4wLjFfeDY0LXNldHVwLmV4ZQpDNENPSGJSYTZwMDdBdW1nNlYvU0VNZGdmZW1KN0tNNlVGLzlFS2dPUmk3SStzcktjTUd3Ym5ha1hSNXZhRnhhRitjYTM2QmdUL05IRTdoaGlQZGtDZz09Cg==",
       "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.0.1_x64-setup.exe"
     }
   }
