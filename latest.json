@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.0",
   "notes": "Initial Release",
   "pub_date": "2026-02-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDI3NjQ5NkYwNDkzNDg1NjcKUldSbmhUUko4SlprSnpMd3M2aXh1c2RTRVZGcDRwMmJrOGhJTEJWdFpvRmxsRklCcDNPN21iK2EK",
-      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.0.2_x64-setup.exe"
+      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.0.0_x64-setup.exe"
     }
   }
 }
