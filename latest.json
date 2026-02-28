@@ -1,11 +1,11 @@
 {
-  "version": "0.0.2",
-  "notes": "Add auth api",
-  "pub_date": "2026-02-27T00:00:00Z",
+  "version": "0.0.3",
+  "notes": "Add player info",
+  "pub_date": "2026-02-28T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbmhUUko4SlprSjBmV2tZb09NZVY4R0NRTEd6dUFXMk5LUm1odk93Z1A5VG11am1saWg5U0pxN1YxbE0zMFh0NHJ0UTFDRlBIbk9LVjl5TWdxWHU3YlZLeThPYVhtQkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjMyOTQ1CWZpbGU6RGVhZFN1cnZpdmFsTGF1bmNoZXJfMC4wLjJfeDY0LXNldHVwLmV4ZQpuYWNmWGRHUnJvanBjOFFVVnJ6L2hmMzJoaHZSak5ybzJ2cWVCR2JvbENuZGJ4TkJUWUI1OExTRkhNWWJ2eG03ZWFUN3VtTnNjQS9JQnJFSldic0JCUT09Cg==",
-      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbmhUUko4SlprSjFxWlNNMFFsUVlVaHlkc3Jla09tc2t5SGZXSHFaUWpPS1pEcEpzVnMzSWJhYkJKclFSOTc4Q0d5SXR4NERtZzlJR2xzdXJUSjlBYjI2R2FuY2d6NEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMzE2NjkyCWZpbGU6RGVhZFN1cnZpdmFsTGF1bmNoZXJfMC4wLjNfeDY0LXNldHVwLmV4ZQoxSkFCN09BcWJoRDZqRkdxcVljaEUxcmFiTFpkUk94R0FxcWppbnN6S2FnTHVEaTlnOGM0ZGs5SFlJbVlZTC9BODMrM3ozTGRrV3J6RU41Skw0WEVEQT09Cg==",
+      "url": "https://github.com/PinalStudio/DeadSurvivalLauncher/raw/main/download/DeadSurvivalLauncher_0.0.3_x64-setup.exe"
     }
   }
 }
